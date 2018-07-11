@@ -27,3 +27,9 @@ a {
 strong, bold, em {
   font-size: 8rem !important;
 }
+
+.credit {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}

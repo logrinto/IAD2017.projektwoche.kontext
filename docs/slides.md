@@ -1,8 +1,7 @@
 # Kontext
 interaktion in text <!-- .element: class="fragment" data-fragment-index="1" -->
----
-<!-- .slide: data-background-image="./images/one.jpg" -->
 
+---
 # Alex Jenter
 --
 Schreiner --> Designer --> Webentwickler 
@@ -13,8 +12,8 @@ für Geld
 für Vergnügen
 - [re/fugium](https://www.re-fugium.com/) Animation Header
 - [zeteco](https://zeteco.ch/) Algorhythmus Hintergrund
----
 
+---
 # Org
 --
 |    Zeit     |    MO    | DI  |    MI    | DO  |    FR    |
@@ -29,12 +28,16 @@ für Vergnügen
 👩🏻 Kathrin Passig  
 👨 Stefan Huber  
 [FA] freies Arbeiten  
+
+<br>
+
+[*.ics](https://alexjenter.github.io/calendar/projekt-woche-sfgz.ics)
 --
 Abgabe
 --
 Bewertung
----
 
+---
 # Thema
 --
 Text <=> Hirn
@@ -49,8 +52,13 @@ Lorem
 *𐃤*
 
 LINEAR B IDEOGRAM VESSEL B205 <!-- .element: class="fragment" data-fragment-index="1" -->
----
+--
+<!-- .slide: data-background-image="./images/theylive.jpg" -->
+<span class="credit">
+[flickr/t_zero](https://www.flickr.com/photos/t_zero/7350565830)
+</span>
 
+---
 # Beispiele
 --
 ### analog:
@@ -65,8 +73,8 @@ LINEAR B IDEOGRAM VESSEL B205 <!-- .element: class="fragment" data-fragment-inde
 - [hannes bajohr - halbzeug](https://www.suhrkamp.de/buecher/halbzeug-hannes_bajohr_7358.html)
 - [0x0a.li](http://0x0a.li)
 - [chicken-infinite](http://0x0a.li/de/text/chicken-infinite/)
----
 
+---
 # Quellen
 --
 - Slides: [reveal.js](https://github.com/hakimel/reveal.js)
