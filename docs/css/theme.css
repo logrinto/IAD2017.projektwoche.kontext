@@ -1,0 +1,29 @@
+@import url(https://cdn.rawgit.com/tonsky/FiraCode/1.205/distr/fira_code.css);
+
+* {
+  text-align: left;
+  line-height: 1.5;
+}
+
+html {
+  font-family: Fira Code, 'Courier New', Courier, monospace;
+  font-size: 32px;
+}
+
+
+
+ul {
+  list-style: "- " inside;
+}
+
+a {
+  color: #f06;
+}
+
+.ajnt table td {
+  width: 12%;
+}
+
+strong, bold, em {
+  font-size: 8rem !important;
+}

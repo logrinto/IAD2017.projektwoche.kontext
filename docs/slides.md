@@ -1,30 +1,62 @@
-<!-- .slide: data-background-image="./images/one.jpg" -->
 # Kontext
-interaktion in text
+interaktion in text <!-- .element: class="fragment" data-fragment-index="1" -->
 ---
-## Alex Jenter
-Designer, jetzt Entwickler 
+<!-- .slide: data-background-image="./images/one.jpg" -->
 
+# Alex Jenter
+--
+Schreiner --> Designer --> Webentwickler 
+--
+für Geld
+- [ATTRIBUTE GMBH](https://www.attribute.ch/en)
+--
+für Vergnügen
+- [re/fugium](https://www.re-fugium.com/) Animation Header
+- [zeteco](https://zeteco.ch/) Algorhythmus Hintergrund
 ---
-## Ablauf
 
-|    Zeit     |      MO       |    DI    |             MI             | DO  |            FR             |
-| :---------- | ------------- | -------- | -------------------------- | --- | ------------------------- |
-| 08:15-09:00 | Einleitung AJ | FA       | FA                         | FA  | FA                        |
-| 09:05-09:50 | FA            |          |                            |     |                           |
-| 10:05-10:50 |               |          |                            |     |                           |
-| 10:55-11:40 |               |          |                            |     |                           |
-| 13:15-14:00 | Input ShH     | Input KP | Zwischen Pr&auml;sentation | FA  | Schluss Pr&auml;sentation |
-| 14:05-14:50 | FA            | FA       | FA                         |     | Besprechung AJ ShH StH    |
-| 15:05-15:50 |               |          |                            |     |                           |
-| 16:00-16:45 |               |          |                            |     |                           |
+# Org
+--
+|    Zeit     |    MO    | DI  |    MI    | DO  |    FR    |
+| :---------- | -------- | --- | -------- | --- | -------- |
+| 08:15-11:40 | 🧔, FA    | FA  | FA       | FA  | FA       |
+| 13:15-16:45 | 👩🏻‍🎓, FA | 👩🏻  | 👩🏻‍🎓👨🧔 | FA  | 👩🏻‍🎓👨🧔 |
 
+<br>
+
+🧔 Alex Jenter  
+👩🏻‍🎓 Shantala Hummler  
+👩🏻 Kathrin Passig  
+👨 Stefan Huber  
+[FA] freies Arbeiten  
+--
+Abgabe
+--
+Bewertung
 ---
-## Beispiele
+
+# Thema
+--
+Text <=> Hirn
+--
+“... ein Buch muß die Axt sein für das gefrorene Meer in uns.  Das glaube ich.
+- [Franz Kafka](https://en.wikiquote.org/wiki/Franz_Kafka)
+--
+Aa
+--
+Lorem
+--
+*𐃤*
+
+LINEAR B IDEOGRAM VESSEL B205 <!-- .element: class="fragment" data-fragment-index="1" -->
+---
+
+# Beispiele
+--
 ### analog:
 - [cards against humanity](https://cardsagainsthumanity.com/)
 - [They Live](https://en.wikipedia.org/wiki/They_Live)
-
+--
 ### online:
 - [getcoleman](https://getcoleman.com/)
 - [new age bullshit generator](http://sebpearce.com/bullshit/)
@@ -33,7 +65,10 @@ Designer, jetzt Entwickler
 - [hannes bajohr - halbzeug](https://www.suhrkamp.de/buecher/halbzeug-hannes_bajohr_7358.html)
 - [0x0a.li](http://0x0a.li)
 - [chicken-infinite](http://0x0a.li/de/text/chicken-infinite/)
-
 ---
-## Kontakt
-helo
+
+# Quellen
+--
+- Slides: [reveal.js](https://github.com/hakimel/reveal.js)
+- Font: [Fira Code](https://github.com/tonsky/FiraCode)
+- Zitat Franz Kafka: [wikiquote.org](https://en.wikiquote.org/wiki/Franz_Kafka)
