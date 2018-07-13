@@ -139,11 +139,11 @@ Note:
 - [chicken-infinite](http://0x0a.li/de/text/chicken-infinite/)
 --
 ### Games
-- []()
 - [candybox](https://candybox2.github.io/candybox/)
 --
 ### libraries:
 - [RiTaJS](https://github.com/dhowe/RiTaJS)
+- [==>](./ex/rita)
 - [TextAdventure.js](https://github.com/TheBroox/TextAdventure.js)
 
 ---

@@ -6,8 +6,95 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Document</title>
   <script language="javascript" src="./lib/rita-full.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ramda/0.25.0/ramda.js"></script>
+  <style>
+    @import url(https://cdn.rawgit.com/tonsky/FiraCode/1.205/distr/fira_code.css);
+
+    body {
+      background: #f06;
+      font-size: 3em;
+      font-family: Fira Code;
+      color: white;
+      text-align: center;
+    }
+    
+    .wrapper {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      position: relative;
+    }
+    
+    button {
+      appearance: none;
+      border: none;
+      color: #f06;
+      background: white;
+      font: inherit;
+      margin: 1em auto;
+    }
+    
+    input {
+      border: none;
+      color: inherit;
+      font: inherit;
+      text-align: inherit;
+      width: 100%;
+      background: inherit;
+    }
+
+    a {
+      font-size: 1rem;
+      position: absolute;
+      bottom: 1rem;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  </style>
 </head>
 <body>
-  Hello it worked
+  <div class="wrapper">
+    <input value="the cat is on the table"/>
+    <button>new</button>
+    <div id="res"></div>
+  </div>
+  <a href="https://github.com/dhowe/RiTa/">github.com/dhowe/RiTa/</a>
+  <script>
+    const input  = document.querySelector('input')
+    const button = document.querySelector('button')
+    const div    = document.querySelector('#res')
+    
+    const set = element => str => element.innerHTML = str
+
+    const pickRandom = arr => arr[Math.floor(Math.random() * arr.length)]
+
+    const pickRandomRhyme = R.compose(
+      pickRandom,
+      RiTa.rhymes,
+    )
+
+    const process = R.compose(
+      x => x.join(' '),
+      R.map(pickRandomRhyme),
+      x => x.words(),
+      RiString
+    )
+
+    process(input.value)
+
+    const setResult = set(div)
+
+    setResult(input.value)
+    
+    input.addEventListener('input', e => {
+      setResult(process(input.value))
+    });
+
+    button.addEventListener('click', e => {
+      setResult(process(input.value))
+    });
+  </script>
 </body>
 </html>
