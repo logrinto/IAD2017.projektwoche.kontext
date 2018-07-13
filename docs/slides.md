@@ -1,13 +1,21 @@
 # Kontext
-interaktion in text <!-- .element: class="fragment" data-fragment-index="1" -->
+Text und Interaktion <!-- .element: class="fragment" data-fragment-index="1" -->
 
 ---
 # Alex Jenter
 --
-Schreiner --> Designer --> Webentwickler 
+Schreiner
+<span class="fragment" data-fragment-index="1">
+--> Designer
+</span>
+<span class="fragment" data-fragment-index="2">
+--> Entwickler
+</span>
+
 --
 für Geld
 - [ATTRIBUTE GMBH](https://www.attribute.ch/en)
+
 --
 für Vergnügen
 - [re/fugium](https://www.re-fugium.com/) Animation Header
@@ -32,32 +40,88 @@ für Vergnügen
 <br>
 
 [*.ics](https://alexjenter.github.io/calendar/projekt-woche-sfgz.ics)
+
+Note:
+- Wer kommt wann mit was vorbei?
+- Da MO, DI, MI und FR Doppelbetreuung herrscht,
+sollte mir die Abwesenheit währen der Physio verziehen sein.
 --
-Abgabe
+Aufgabe
+<br>
+<br>
+Gefordert ist eine Arbeit, die sich gestalterisch mit der Interaktion zwischen Leser und Text auseinandersetzt. 
+
+Note:
+- digitaler, analoger oder Mischform
+- Gruppen 1 - 2 Personen
+- < 2 mit Begründung
 --
 Bewertung
+<br>
+<br>
+- Originalität
+- Ausarbeitungstiefe
+
+Note:
+Originalität
+- Eigenständigkeit
+
+Ausarbeitungstiefe
+- Vermittlung des Konzeptes
+- Gestaltung
+  - Nutzerführung
+  - Typografie.
 
 ---
 # Thema
 --
-Text <=> Hirn
+Text == Information <=> Hirn
+
+Note:
+- Am rationalen ende des Spektrums
+- text als fassbarer speicher
 --
 “... ein Buch muß die Axt sein für das gefrorene Meer in uns.  Das glaube ich.
 - [Franz Kafka](https://en.wikiquote.org/wiki/Franz_Kafka)
---
-Aa
---
-Lorem
---
-*𐃤*
 
-LINEAR B IDEOGRAM VESSEL B205 <!-- .element: class="fragment" data-fragment-index="1" -->
+Note:
+- Am emotionalen ende des Spektrums
+- text schlüssel zu unserem Innersten
+--
+*Aa*
+
+Note:
+- Schriftschnitte
+- Zeilenabstand
+- Buchstabenabstände
+- Kerning
+- halt was ihr so macht
+--
+# Lorem
+LoremNullamquisrisusegeturnamollisornareveleuleo. <!-- .element: class="fragment" data-fragment-index="1" -->
+
+Note:
+Wenn wir uns mit Füllinhalten Gestalten...
+- Gestaltung kann nicht zum selbstzweck stattfinden
+- Ohne Inhalt, was hat denn die Form
+--
+*𐃣*
+
+LINEAR B IDEOGRAM VESSEL B204  <!-- .element: class="fragment" data-fragment-index="1" -->
+
+Note:
+Wenn wir uns mit Form beschäftigen
+- illusion «Form frei vom inhalt»
+- Form ist Teil des Inhalts
 --
 <!-- .slide: data-background-image="./images/theylive.jpg" -->
 <span class="credit">
 [flickr/t_zero](https://www.flickr.com/photos/t_zero/7350565830)
 </span>
 
+Note:
+- beispiel für eine Gestaltung die teil des inhalts ist
+- beispiel für Inhalt der Teil der Gestaltung ist
 ---
 # Beispiele
 --
@@ -73,6 +137,14 @@ LINEAR B IDEOGRAM VESSEL B205 <!-- .element: class="fragment" data-fragment-inde
 - [hannes bajohr - halbzeug](https://www.suhrkamp.de/buecher/halbzeug-hannes_bajohr_7358.html)
 - [0x0a.li](http://0x0a.li)
 - [chicken-infinite](http://0x0a.li/de/text/chicken-infinite/)
+--
+### Games
+- []()
+- [candybox](https://candybox2.github.io/candybox/)
+--
+### libraries:
+- [RiTaJS](https://github.com/dhowe/RiTaJS)
+- [TextAdventure.js](https://github.com/TheBroox/TextAdventure.js)
 
 ---
 # Quellen
