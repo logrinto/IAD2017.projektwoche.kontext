@@ -40,3 +40,32 @@ Vermittlung des Konzeptes ist gleichermassen Gegenstand der Bewertung wie auch d
 <br>
 
 [*.ics](https://alexjenter.github.io/calendar/projekt-woche-sfgz.ics)
+
+## Links
+
+### Slides
+- [Einleitung](https://logrinto.github.io/IAD2017.projektwoche.kontext/) 
+
+### Beispiele
+
+#### Sites
+- [getcoleman](https://getcoleman.com/)
+- [new age bullshit generator](http://sebpearce.com/bullshit/)
+- [zufallsshirt.de](http://zufallsshirt.de/)
+- [0x0a.li](http://0x0a.li)
+- [0x0a.li -> Artikel «datenpoesie»](http://0x0a.li/de/datenpoesie/)
+
+#### Film
+- [They Live](https://en.wikipedia.org/wiki/They_Live)
+- [BBS the Documentary](https://www.youtube.com/watch?v=nO5vjmDFZaI)
+- [BBS the Documentary - Part 5 ARTSCENE](https://www.youtube.com/watch?v=2ReS4Bp4IPY)
+
+#### Games
+- [cards against humanity](https://cardsagainsthumanity.com/)
+- [candybox](https://candybox2.github.io/candybox/)
+- [life line (video)](https://www.youtube.com/watch?v=LehoxwX3llo)
+
+#### Tools
+- [RiTaJS](https://github.com/dhowe/RiTaJS) ([beispiel](./ex/rita))
+- [twinery.org](https://twinery.org/2)
+- [TextAdventure.js](https://github.com/TheBroox/TextAdventure.js)
