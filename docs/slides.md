@@ -140,10 +140,10 @@ Note:
 ### Games
 - [cards against humanity](https://cardsagainsthumanity.com/)
 - [candybox](https://candybox2.github.io/candybox/)
-- [life line (video)](https://www.youtube.com/watch?v=LehoxwX3llo)
+- [life line (Video)](https://www.youtube.com/watch?v=LehoxwX3llo)
 --
 ### Tools
-- [RiTaJS](https://github.com/dhowe/RiTaJS) ([beispiel](./ex/rita))
+- [RiTaJS](https://github.com/dhowe/RiTaJS) ([Beispiel](./ex/rita))
 - [twinery.org](https://twinery.org/2)
 - [TextAdventure.js](https://github.com/TheBroox/TextAdventure.js)
 
