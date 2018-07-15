@@ -78,7 +78,7 @@ Ausarbeitungstiefe
 ---
 # Thema
 --
-Text == Information <=> Hirn
+Hirn => Information == Text
 
 Note:
 - Am rationalen ende des Spektrums
