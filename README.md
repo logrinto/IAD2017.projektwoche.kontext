@@ -53,7 +53,7 @@ Vermittlung des Konzeptes ist gleichermassen Gegenstand der Bewertung wie auch d
 - [new age bullshit generator](http://sebpearce.com/bullshit/)
 - [zufallsshirt.de](http://zufallsshirt.de/)
 - [0x0a.li](http://0x0a.li)
-- [0x0a.li -> Artikel «datenpoesie»](http://0x0a.li/de/datenpoesie/)
+- [0x0a.li - Artikel «datenpoesie»](http://0x0a.li/de/datenpoesie/)
 
 #### Film
 - [They Live](https://en.wikipedia.org/wiki/They_Live)
