@@ -22,8 +22,7 @@ Eigenständigkeit der Arbeit: Wie sehr hebt sich die Arbeit bereits Gesehenem, E
 Vermittlung des Konzeptes ist gleichermassen Gegenstand der Bewertung wie auch die Gestaltung im Hinblick auf Nutzerführung und Typografie.
 <br />
 
-
-
+## Stundenplan
 |    Zeit     |    MO    |   DI   |  MI   | DO  |   FR   |
 | :---------- | -------- | ------ | ----- | --- | ------ |
 | 08:15-11:40 | 🧔, FA      | FA     | FA    | FA  | FA     |
