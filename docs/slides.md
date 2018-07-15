@@ -85,7 +85,7 @@ Note:
 - text als fassbarer speicher
 --
 “... ein Buch muß die Axt sein für das gefrorene Meer in uns.  Das glaube ich.
-- [Franz Kafka](https://en.wikiquote.org/wiki/Franz_Kafka)
+- [Franz Kafka](http://www.the-key-book.com/en/key-library/franz--kafka-1883-1924/non-defini-ou-inconnu/475-brief-an-oskar-pollak-27-januar-1904-briefe-1902-1924-extrakt/)
 
 Note:
 - Am emotionalen ende des Spektrums
@@ -152,5 +152,5 @@ Note:
 --
 - Slides: [reveal.js](https://github.com/hakimel/reveal.js)
 - Font: [Fira Code](https://github.com/tonsky/FiraCode)
-- Zitat Franz Kafka: [wikiquote.org](https://en.wikiquote.org/wiki/Franz_Kafka)
+- Zitat Franz Kafka: [Brief an Oskar Pollak, 27. Januar 1904. Briefe 1902-1924 — Extrakt.](http://www.the-key-book.com/en/key-library/franz--kafka-1883-1924/non-defini-ou-inconnu/475-brief-an-oskar-pollak-27-januar-1904-briefe-1902-1924-extrakt/)
 
