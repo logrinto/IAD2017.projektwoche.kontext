@@ -24,15 +24,18 @@ für Vergnügen
 ---
 # Org
 --
-|    Zeit     |    MO    | DI  |    MI    | DO  |    FR    |
-| :---------- | -------- | --- | -------- | --- | -------- |
-| 08:15-11:40 | 🧔, FA    | FA  | FA       | FA  | FA       |
-| 13:15-16:45 | 👩🏻‍🎓, FA | 👩🏻  | 👩🏻‍🎓👨🧔 | FA  | 👩🏻‍🎓👨🧔 |
+|    Zeit     |    MO    |   DI   |  MI   | DO  |   FR   |
+| :---------- | -------- | ------ | ----- | --- | ------ |
+| 08:15-11:40 | 🧔, FA      | FA     | FA    | FA  | FA     |
+| 13:15-16:45 | 👩‍🎓, FA | 👩🏻, FA | 👩‍🎓🧔 | FA  | 👩‍🎓👨🧔 |
 
 <br>
 
+
+
+
 🧔 Alex Jenter  
-👩🏻‍🎓 Shantala Hummler  
+👩‍🎓 Shantala Hummler  
 👩🏻 Kathrin Passig  
 👨 Stefan Huber  
 [FA] freies Arbeiten  
@@ -114,10 +117,7 @@ Wenn wir uns mit Form beschäftigen
 - illusion «Form frei vom inhalt»
 - Form ist Teil des Inhalts
 --
-<!-- .slide: data-background-image="./images/theylive.jpg" -->
-<span class="credit">
-[flickr/t_zero](https://www.flickr.com/photos/t_zero/7350565830)
-</span>
+<!-- .slide: data-background-image="./images/they-live-1.jpg" -->
 
 Note:
 - beispiel für eine Gestaltung die teil des inhalts ist
@@ -133,17 +133,15 @@ Note:
 - [getcoleman](https://getcoleman.com/)
 - [new age bullshit generator](http://sebpearce.com/bullshit/)
 - [zufallsshirt.de](http://zufallsshirt.de/)
-- [twitter.com/zufallshorst](https://twitter.com/zufallshorst/)
-- [hannes bajohr - halbzeug](https://www.suhrkamp.de/buecher/halbzeug-hannes_bajohr_7358.html)
 - [0x0a.li](http://0x0a.li)
-- [chicken-infinite](http://0x0a.li/de/text/chicken-infinite/)
+- [0x0a.li -> Artikel «datenpoesie»](http://0x0a.li/de/datenpoesie/)
 --
 ### Games
 - [candybox](https://candybox2.github.io/candybox/)
+- [life line (youtube)](https://www.youtube.com/watch?v=LehoxwX3llo)
 --
 ### libraries:
-- [RiTaJS](https://github.com/dhowe/RiTaJS)
-- [==>](./ex/rita)
+- [RiTaJS](https://github.com/dhowe/RiTaJS) ([beispiel](./ex/rita))
 - [TextAdventure.js](https://github.com/TheBroox/TextAdventure.js)
 
 ---
