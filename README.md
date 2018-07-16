@@ -44,6 +44,7 @@ Vermittlung des Konzeptes ist gleichermassen Gegenstand der Bewertung wie auch d
 
 ### Slides
 - [Einleitung](https://logrinto.github.io/IAD2017.projektwoche.kontext/) 
+- [Präsentation - Shantala Hummler](https://logrinto.github.io/IAD2017.projektwoche.kontext/slides-ShH-kontext-text-und-interaktion/#/) 
 
 ### Beispiele
 
