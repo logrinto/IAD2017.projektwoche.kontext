@@ -70,5 +70,5 @@ Vermittlung des Konzeptes ist gleichermassen Gegenstand der Bewertung wie auch d
 - [twinery.org](https://twinery.org/2)
 - [TextAdventure.js](https://github.com/TheBroox/TextAdventure.js)
 
-### Linksammlung Kathrin Passig
+#### Linksammlung Kathrin Passig
 - [bit.ly/SFGZprojektwoche](http://bit.ly/SFGZprojektwoche)
