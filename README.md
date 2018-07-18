@@ -69,3 +69,6 @@ Vermittlung des Konzeptes ist gleichermassen Gegenstand der Bewertung wie auch d
 - [RiTaJS](https://github.com/dhowe/RiTaJS) ([Beispiel](./ex/rita))
 - [twinery.org](https://twinery.org/2)
 - [TextAdventure.js](https://github.com/TheBroox/TextAdventure.js)
+
+### Linksammlung Kathrin Passig
+- [bit.ly/SFGZprojektwoche](http://bit.ly/SFGZprojektwoche)
