@@ -22,6 +22,9 @@ Eigenständigkeit der Arbeit: Wie sehr hebt sich die Arbeit bereits Gesehenem, E
 Vermittlung des Konzeptes ist gleichermassen Gegenstand der Bewertung wie auch die Gestaltung im Hinblick auf Nutzerführung und Typografie.
 <br />
 
+## Abgabe
+Die Schlusspräsentation am Freitag umfasst grundsätzlich die Abgabe. Den gesprochenen Teil sowie weitere wichtige Informationen und Erklärungen zu eurer Arbeit könnt ihr in einer *.txt Datei neben eure Abgabe ablegen.
+
 ## Stundenplan
 |    Zeit     |    MO    |   DI   |  MI   | DO  |   FR   |
 | :---------- | -------- | ------ | ----- | --- | ------ |
