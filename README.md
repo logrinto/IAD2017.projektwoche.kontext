@@ -75,3 +75,9 @@ Die Schlusspräsentation am Freitag umfasst grundsätzlich die Abgabe. Den gespr
 
 #### Linksammlung Kathrin Passig
 - [bit.ly/SFGZprojektwoche](http://bit.ly/SFGZprojektwoche)
+
+### Resultate
+- [MBMH_07_18_SFGZ](https://logrinto.github.io/IAD2017.projektwoche.kontext/abgabe/MBMH_07_18_SFGZ/)
+- [hints](https://logrinto.github.io/IAD2017.projektwoche.kontext/abgabe/hints/)
+- [chluedo](https://logrinto.github.io/IAD2017.projektwoche.kontext/abgabe/chluedo/)
+- [wolfgang_severin](https://logrinto.github.io/IAD2017.projektwoche.kontext/abgabe/wolfgang_severin/)
