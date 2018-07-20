@@ -1,6 +1,4 @@
 <html>
-<!-- Terminal-Befehl: python -m SimpleHTTPServer 8000 -->
-<!-- Server-URL: http://0.0.0.0:8000/ -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
